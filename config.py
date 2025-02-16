@@ -1,0 +1,5 @@
+FACADE_SERVICE = "http://127.0.0.1:5001"
+LOGGINING_SERVICE = "http://127.0.0.1:5002"
+LOGGINING_SERVICE_DOCKER = "http://host.docker.internal:5002"
+MESSAGES_SERVICE = "http://127.0.0.1:5003"
+MESSAGES_SERVICE_DOCKER = "http://host.docker.internal:5003"
